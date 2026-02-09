@@ -1,6 +1,6 @@
-#include "SOLive_ProXL.h"
+#include "SOLive_ProTimer.h"
 
-void SOLive_ProXL::send(
+void SOLive_ProTimer::send(
   SOLive& so,
   const char* homeName,
   const char* awayName,

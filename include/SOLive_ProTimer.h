@@ -1,7 +1,7 @@
 #pragma once
 #include "SOLive.h"
 
-class SOLive_ProXL {
+class SOLive_ProTimer {
 public:
   static void send(
     SOLive& so,
