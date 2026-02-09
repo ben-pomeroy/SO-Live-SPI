@@ -1,0 +1,14 @@
+{
+  "name": "SO-Live-SPI",
+  "version": "1.0.0",
+  "description": "SPI driver for SO-Live devices (H16, ProXL)",
+  "keywords": ["spi", "esp32", "solive"],
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"],
+  "authors": [
+    {
+      "name": "Your Name",
+      "maintainer": true
+    }
+  ]
+}
