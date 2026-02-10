@@ -5,7 +5,7 @@
 
 class SOLive_C29 {
 public:
-    void send(
+    static void send(
         SOLive& so,
         int total_runs,
         int wickets,
