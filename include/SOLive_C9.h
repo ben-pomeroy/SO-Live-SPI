@@ -10,6 +10,6 @@ public:
         int total_runs,
         int wickets,
         float overs,
-        bool first_inns
+        int first_inns
     );
 };
